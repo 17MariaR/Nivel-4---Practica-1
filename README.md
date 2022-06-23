@@ -32,7 +32,7 @@ Ir a "maquinas virtuales" y llenar los datos correspondientes para crearlas (en 
 
 Se espera a la implementacion de maquinas
 
-![image text](I4s4.png)
+![image text](I4s4.png) 
 
 *Creacion de maquina virtual*
 
